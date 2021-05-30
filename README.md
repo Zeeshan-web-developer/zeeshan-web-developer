@@ -1,6 +1,6 @@
 ### Hi there, I'm Zeeshan Ahmad 👋
 
-## I'm a Developer, and Teacher!!
+## I'm a Software Developer, and Teacher!!
 
 -
 - 🌱 I’m currently learning react and electron 🤣
