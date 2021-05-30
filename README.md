@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Zeeshan Ahmad 👋
 
-<!--
-**zeeshanmca/zeeshanmca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, and Teacher!!
 
-Here are some ideas to get you started:
+-
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to listen music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Spotify Playing 🎧
+
+<br />
+<br />
+
+---
+
+[youtube]: https://www.youtube.com/channel/UC-ifIXWvMa8dIm0wnhdarYA
+[linkedin]: https://linkedin.com/in/zeeshanmca
+[jsplaylist]: https://www.youtube.com/watch?v=Lc0lHLUc7U0&list=PLW-A4T7u14N9l4E1dfAD-5JHw7KqHjekQ&ab_channel=zeeshanAhmadzeeshanAhmad
+[reactplaylist]: https://www.youtube.com/watch?v=iqOApXLAc9Q&list=PLW-A4T7u14N_vPalgwtBSxBc-STcY8rz4&ab_channel=zeeshanAhmadzeeshanAhmad
