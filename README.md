@@ -3,8 +3,7 @@
 ## I'm a Developer, and Teacher!!
 
 -
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning react and electron 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music
 
