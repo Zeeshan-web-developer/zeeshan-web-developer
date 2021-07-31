@@ -3,7 +3,7 @@
 ## I'm a Software Developer, and Youtuber!!
 
 -
-- 🌱 I’m currently learning react and electron 🤣
+- 🌱 I’m currently learning javascript 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music
 
