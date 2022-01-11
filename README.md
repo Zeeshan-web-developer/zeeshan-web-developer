@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeshan-web-developer" alt="zeeshan-web-developer" /></a> </p>
 
-- 🔭 I’m currently working on [Chat application](https://github.com/Zeeshan-web-developer/chitChat)
+
+- 🔭 I’m currently working on (https://github.com/Zeeshan-web-developer/chitChat)
 
 - 🌱 I’m currently learning **Reactjs, electron js, typescript**
 
-- 👯 I’m looking to collaborate on [FULL FLEDGED CHAT APPLICATION](https://github.com/Zeeshan-web-developer/chitChat)
+- 👯 I’m looking to collaborate on (https://github.com/Zeeshan-web-developer/chitChat)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zeeshan-web-developer/chitChat](https://github.com/Zeeshan-web-developer/chitChat)
 
