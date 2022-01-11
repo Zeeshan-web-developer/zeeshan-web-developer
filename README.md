@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **zeeshan1361@gmail.com**
 
-- 📄 Know about my experiences [1 year experience](1 year experience)
+- 📄 Know about my experiences [1+ year experience](1+ years experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
